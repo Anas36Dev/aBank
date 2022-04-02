@@ -8,7 +8,7 @@
 4. Vous pouvez modifier les positions des banques dans le ``client/main.lua`` à partir des lignes 157 à 166.
    
 -> Discord Support : https://discord.gg/j4ywQ5puXU
--> Vidéo Installation : 
+-> Vidéo Installation : https://www.youtube.com/watch?v=JyZkIaGzkHk&t
 
 # [Tuto EN] 
 
